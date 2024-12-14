@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá! 👋
 
-<!--
-**gisilva-dev/gisilva-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou a Giovanna Silva ou gisilva-dev. Desenvolvedora FullStack (mais especializada em FrontEnd) formada em Análise em Desenvolvimento de Sistemas na instituição Senai Suzana Dias. 
+- 🔭 Atualmente estou buscando meu primeiro emprego
+- 🌱 Estudando Python, Typescript, Noje.js e Firebase
+- 😄 Pronomes: ela/dela
 
-Here are some ideas to get you started:
+![gisilva-dev's Stats](https://github-readme-stats.vercel.app/api?username=gisilva-dev&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias Utilizadas 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,mysql,react,sqlite)](https://skillicons.dev)
+
+![gisilva-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gisilva-dev&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+
+
+
+
